@@ -2,7 +2,7 @@ This repository includes the supplementary material and code for the analysis ti
 
 The experimental data are gathered in the ./data folder.
 
-- The format of the raw data file name is: <schooltag>_raw_<datatype>.csv, with schooltag indicating the code of the high school where the data were acquired (cer or lan), and datatype the data modality (pre-test, post-test and sessions).
+- The format of the raw data file name is: \<schooltag\>_raw_\<datatype\>.csv, with schooltag indicating the code of the high school where the data were acquired (cer or lan), and datatype the data modality (pre-test, post-test and sessions).
 
 The cleaned and consolidated data are in the same ./data folder and can be directly used for the analysis:
 
