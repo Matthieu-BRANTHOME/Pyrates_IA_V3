@@ -16,3 +16,6 @@ If you reuse parts of our data and code, please cite the following paper:
 
 - Matthieu Branthôme and Sébastien Lallé. 2025. Impact of Adaptive Feedback on Learning Programming with a Serious Game in High Schools’ Classes. In Proceedings of ACM International Conference on User Modeling, Adaptation
   and Personalization (UMAP '25). ACM, New York, NY, USA.
+
+
+License: BSD 3-Clause.
