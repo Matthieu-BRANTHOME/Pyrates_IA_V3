@@ -1,4 +1,4 @@
-This repository includes the supplementary material and code for the analysis titled: "Impact of Adaptive Feedback on Learning Programming with a Serious Game in High Schools’ Classes" (see reference below). The papers presents a field user study aimed at evaluating the impact of an adaptive feedback system in [Pyrates](https://py-rates.fr), a programming serious game designed to ease the transition from block-based to text-based programming in high school classes.
+This repository includes the supplementary material and code for the analysis titled: "Impact of Adaptive Feedback on Learning Programming with a Serious Game in High Schools’ Classes" (see reference below). The paper presents a field user study aimed at evaluating the impact of an adaptive feedback system in [Pyrates](https://py-rates.fr), a programming serious game designed to ease the transition from block-based to text-based programming in high school classes.
 
 ### Data
 The experimental data are gathered in the [./data](data/) folder.
